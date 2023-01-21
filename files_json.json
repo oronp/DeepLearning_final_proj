@@ -1,0 +1,24 @@
+{
+  "train_full_data": "1o12E58rKqnXzMj8npXM5DVMwiWN72fSd",
+  "test_full_data": "1yxxS26IO55gqHL5xDEvet2guhszKB54P",
+  "train_chunks_data": [
+    "1d0r82g4J5VDhIE9wfp8LA2odeQOOiMpd",
+    "11mov5p3VLDG4rkXlzAGDALRicll93V10",
+    "1PPwUti6saru5B6Ryf2ULkKWxWVtUShYu",
+    "1y88KIe08rlyHhvTZH6jW9afXkN5gyKkM",
+    "1UT1IcVoFzN0purs85I37yFDUEi4iqs5O",
+    "1D67oTLFQu48wHIYQEhQtRnU1negMzgVA",
+    "1semiEa0qxSBuU3gcBYO8CxibZ735PHwT",
+    "1dq0n_rXb3W31_GllJbrVJKJE6h8OwC46"    
+  ],
+  "test_chunks_data": [
+    "1ArjbRAyHIlcikWNcvB0BSSps8nEiKo4n",
+    "1hM4o509wWQVDeerjBX6blxbd95BHVg0I",
+    "1qJe3t-LFNDpiHxy0BeYb4YlUQDmRMubZ",
+    "1SdpThHH-2Im3hfdND6_psgvpxhASvXYF",
+    "1mc_C_UTAr95VGEUtbPZwmF2Rb2NMOTZ7",
+    "1DHTGe2zH0rhLojZzAkkbMFT8wwctYflh",
+    "1tT4_4uQub9ZD8WKATCOhkMebjBcZgjEG",
+    "117YrjcThJB-lpiA5X8EVP2HHgfhiKUxf"
+  ] 
+}
